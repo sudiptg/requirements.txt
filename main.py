@@ -10,7 +10,7 @@ from keep_alive import keep_alive
 # ==========================================
 # ⚙️ CONFIGURATION (यहाँ अपना टोकन डाल)
 # ==========================================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8770635433:AAFQPIThVP_F24ZU_8NLIbpc2CMl8bqAf9I"
 UPDATES_CHANNEL_URL = "https://t.me/Ss_GodX"  
 SUPPORT_GROUP_URL = "https://t.me/Ss_GodX"    
 
